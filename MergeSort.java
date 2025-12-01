@@ -8,7 +8,7 @@ public class MergeSort {
         System.out.println();
     }
 
-    // Merge sort (divide) WORK
+    // Merge sort (divide) WORK 
     public static void mergeSort(int arr[], int si, int ei) {
         //Base Case
         if (si >= ei) {
