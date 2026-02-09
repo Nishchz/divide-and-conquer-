@@ -7,7 +7,7 @@
   <div>
     <h1>📖 What Is Merge Sort </h1>
     <ul>
-      <li> Merge Sort is a </li>
+      <li> Merge Sort is a <b> divide and conquer algorithm</b> that :</li>
       <ol>
         <li>Divide the array into two hlaves </li>
       </ol>
