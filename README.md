@@ -9,7 +9,9 @@
     <ul>
       <li> Merge Sort is a <b> divide and conquer algorithm</b> that :</li>
       <ol>
-        <li>Divide the array into two hlaves </li>
+        <li>Divide the array into two hlaves </li> 
+        <li> Recursively sorts each half</li>
+        <li> Merge the sorts halves into one sorted array</li>
       </ol>
     </ul>
   </div>
