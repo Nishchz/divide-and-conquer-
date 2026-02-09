@@ -6,5 +6,11 @@
   </div>
   <div>
     <h1>📖 What Is Merge Sort </h1>
+    <ul>
+      <li> Merge Sort is a </li>
+      <ol>
+        <li>Divide the array into two hlaves </li>
+      </ol>
+    </ul>
   </div>
 </body>
