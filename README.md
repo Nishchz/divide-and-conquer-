@@ -22,6 +22,9 @@
       <ul>
       <li>The array is divided into  two halves until each subarray contains only one elements</li>
       </ul>
+      <u>
+        <li>ak</li>
+      </u>
     </ol>
     
   </div>
