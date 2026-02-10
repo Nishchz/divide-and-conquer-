@@ -25,9 +25,9 @@
     </ol>
     </div>
   <div>
-    <ul>
+    <ol>
     <li> Divide</li>
       
-    </ul>
+    </ol>
   </div>
 </body>
