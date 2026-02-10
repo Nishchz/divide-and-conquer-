@@ -22,7 +22,9 @@
       <ul>
       <li>The array is divided into  two halves until each subarray contains only one elements</li>
       </ul>
-      <u>
+    </ol>
+    <ol>
+      <ul>
         <li>ak</li>
         <li>anja</li>
       </u>
