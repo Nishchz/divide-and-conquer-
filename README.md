@@ -26,4 +26,13 @@
       </ul>
     </ul>
   </div>
+  <div>
+    <h1> 🧠Key Concept Used</h1>
+    <ul>
+      <li>Recursion</li>
+      <li>Divide and conquer strategyli>
+      <li>Temporary arrays for merging</li>
+    </ul>
+    
+  </div>
 </body>
