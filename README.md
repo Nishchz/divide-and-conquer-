@@ -20,14 +20,11 @@
     <ol>
       <li> Divide</li>
       <ul>
-      <li>The array is divided into  two halves until each subarray contains only one elements</li>
+      <p>The array is divided into  two halves until each subarray contains only one elements :
+        <br> ak
+        <br>al
+        <br>klk
       </ul>
     </ol>
     </div>
-  <div>
-    <ol>
-    <li> Divide</li>
-      
-    </ol>
-  </div>
 </body>
