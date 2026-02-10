@@ -17,14 +17,11 @@
   </div>
   <div>
     <h1> 🚀 How the Alogorithm Works </h1>
-    <ol>
+    <ul>
       <li> Divide</li>
       <ul>
-      <p>The array is divided into  two halves until each subarray contains only one elements :
-        <br> ak
-        <br>al
-        <br>klk
+      <li>The array is divided into  two halves until each subarray contains only one elements </li>
       </ul>
-    </ol>
+    </ul>
     </div>
 </body>
