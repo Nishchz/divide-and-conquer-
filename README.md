@@ -22,6 +22,7 @@
       <ul> 
       <li>Divide ->The array is divided into  two halves until each subarray contains only one elements </li>
       <li>Conquer ->Each subarrays is sorted recursively</li>
+      <li>Merge ->The sorted subarrays are merged back together in sorted order</li>
       </ul>
     </ul>
   </div>
