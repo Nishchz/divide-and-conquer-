@@ -18,7 +18,7 @@
   <div>
     <h1> 🚀 How the Alogorithm Works </h1>
     <ol>
-      <li> 1 Divide</li>
+      <li> Divide</li>
       <ul>
       <li>The array is divided into  two halves until each subarray contains only one elements</li>
       </ul>
