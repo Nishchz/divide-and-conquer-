@@ -33,6 +33,5 @@
       <li>Divide and conquer strategy<li>
       <li>Temporary arrays for merging</li>
     </ul>
-    
   </div>
 </body>
