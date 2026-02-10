@@ -15,4 +15,8 @@
       </ol>
     </ul>
   </div>
+  <div>
+    <h1>🧾How the Alogorithm Works </h1>
+    
+  </div>
 </body>
