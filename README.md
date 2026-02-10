@@ -18,10 +18,11 @@
   <div>
     <h1> 🚀 How the Alogorithm Works </h1>
     <ul>
-      <li> Divide</li>
-      <ul>
-      <li>The array is divided into  two halves until each subarray contains only one elements </li>
+      <li> Divide | Conquer | Merge</li>
+      <ul> 
+      <li>Divide ->The array is divided into  two halves until each subarray contains only one elements </li>
+      <li>Conquer ->Each subarrays is sorted recursively</li>
       </ul>
     </ul>
-    </div>
+  </div>
 </body>
